@@ -92,7 +92,7 @@ annotations - флаг для сохранения аннотаций (`True` и
 
 ## Стек технологий
 + *OpenCV*
-+ *Ultralytics*
++ *Ultralyticks*
 + *PyTorch*
 + *numpy*
 
